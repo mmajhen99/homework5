@@ -1,0 +1,27 @@
+***SEO factors for usedvictoria.com***
+Cq: Many of the pages on the website are classifieds written by users. Looking through the links on the bottom of the page such as Help, Contact, and privacy policy are well written and in depth which will greatly aide the users of the site
+Ht- Titles: They various categories and sections of the site are appropriately labelled typically in the fashion( http://www.usedvictoria.com/classifieds/Catagory) in which the word category is replaced with either the category name or a simplified version. Ex: “Children’s items” translates to “kids” in the html address
+Hd- Descriptions: The meta tags present on the front screen detail the form of social media that the site is using. No tags are presented for the Primary tool bar however, they are already short and concise in describing what they are. For the sub categories of the main directories, the tag will state other items that are present within each sub category giving a good idea of what is inside.
+Am- Mobile: The site functions well on my mobile device and replaces lots of the text present on the site with large buttons that contain pictures of each category. The tool bar on the left side provides ease of access and the animations are well implemented
+Au-URLs: The URLs on usedvictoria provide relevant information as to what page or classified someone is currently in. No excess gibberish or useless words and the keywords are often shortened or simplified
+As-Speed: While navigating through the website, I noticed that some pages took several seconds to load the text, images and advertisements. This may however be a result of the UVIC WIFI rather than the page itself.
+Ah-HTTPS: The website does not use HTTPS therefore the website cannot guarantee a secured connection to their users.
+Ca-Answers: After typing a word or object like car or basketball into the search bar, the site shows a grouped list of classifieds that may be applicable. Some carry relevance to the content but several are out of place. Below that is a list of user ads that have these keywords either in the title or description.
+***Business Model Canvas for usedvictoria.com***
+Key Partners: Since usedvictoria.com is a user run website to facilitate sales from person to person, their business partners and suppliers would be the advertisers that pay to run ads on the site.
+Key activities: Ensure the website remains fully functional to prevent a loss of dialogue between buyers and sellers. Make sure that advertisements are bringing in money.
+Value Propositions: A wide variety of objects, jobs, experiences, and product categories to expand the limits of what can be sold through the website
+Customer Relationships: Once again since the users of the site are the ones who make transactions with each other, usedvictoria.com relies on social media to establish relations with customers. Whether it be resolving an issue or holding contests, their numerous forms of social media is where they build relations with their userbase.
+Customer Segments: People who are looking to buy products either new or used from another person rather than company. People who would like to sell their items or services directly to another person.
+Key Resources: People with marketing and social skills to run the social media and blog. People to maintain improve and monitor the website to ensure it operates smoothly.
+Channels: Social Media websites, blog, direct contact from phone or email.
+Cost Structure: Advertising on other places on the internet or physical advertising. Wages for those involved with server, social media, and site development 
+Revenue Streams: Revenue is collected from ads within the website rather than the client base.
+***What runs Usedvictoria***
+Nginx: A high performance and high stability open source HTTP, reverse proxy, and mail server
+Google Tag Manager: A tool to compile efficient analytics by managing tags.
+Modernizr: A JavaScript written testing bundle to detect client technologies. Info is used to improve user experience
+Facebook widgets: a widget that enables Facebook to run in a section of the website 
+Google Analytics: A web analytics service used to monitor website traffic and data
+Google AdSense: Googles advertising network that generates revenue from each click from the given website
+jQuery: A quick and feature filled JavaScript library that makes it more user-friendly for developers.
